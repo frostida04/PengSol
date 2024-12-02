@@ -1956,7 +1956,7 @@ footer {
 }
 
 .laboratory {
-    background: url(/assets/png/laboratory-background.png) top center/cover no-repeat
+    background: url(../assets/png/laboratory-background.png) top center/cover no-repeat
 }
 
 .laboratory__container {
@@ -2064,7 +2064,7 @@ footer {
 
 .wrapper {
     min-height: 100vh;
-    background: url(/assets/png/generator-background.jpg) center right/cover no-repeat;
+    background: url(../assets/png/generator-background.jpg) center right/cover no-repeat;
     font-family: var(--font-cutie)
 }
 
@@ -2706,15 +2706,15 @@ footer {
 }
 
 .choices__item_mouth .choices__choice {
-    background: url(/assets/parts/eyes/common/Original.png) 0 0/cover !important no-repeat !important !important !important, url(/assets/parts/body/common/Original.png) 0 0/cover !important no-repeat !important !important !important
+    background: url(../assets/parts/eyes/common/Original.png) 0 0/cover no-repeat, url(../assets/parts/body/common/Original.png) 0 0/cover no-repeat
 }
 
 .choices__item_need-full-base .choices__choice {
-    background: url(/assets/parts/eyes/common/Original.png) 0 0/cover no-repeat, url(/assets/parts/mouth/common/Original.png) 0 0/cover no-repeat, url(/assets/parts/body/common/Original.png) 0 0/cover no-repeat
+    background: url(../assets/parts/eyes/common/Origin al.png) 0 0/cover no-repeat, url(../assets/parts/mouth/common/Original.png) 0 0/cover no-repeat, url(../assets/parts/body/common/Original.png) 0 0/cover no-repeat
 }
 
 .choices__item_need-base .choices__choice {
-    background: url(/assets/parts/mouth/common/Original.png) 0 0/cover no-repeat, url(/assets/parts/body/common/Original.png) 0 0/cover no-repeat
+    background: url(../assets/parts/mouth/common/Original.png) 0 0/cover no-repeat, url(../assets/parts/body/common/Original.png) 0 0/cover no-repeat
 }
 
 .choices__label {
